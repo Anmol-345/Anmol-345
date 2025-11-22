@@ -51,19 +51,19 @@ Currently exploring the exciting world of **Blockchain** and **Artificial Intell
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-sinha/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmol2103)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anmol-sinha-6a53b4269)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmol-345)  
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AnmolSinha2103)  
 📧 Email: anmol.sinha@example.com  
 
 ---
 
 ## 💡 Fun Fact
 
-Even though my **GitHub contributions are limited**, I believe in **quality over quantity**. I focus on **learning new skills** and **building projects that matter**, not just committing frequently.
+Even though my **GitHub contributions are limited**, I focus on **learning new skills** and **building meaningful projects**, not just committing frequently.
 
 ---
 
 ## ⚡ Quote I Live By
 
 > “Strive for progress, not perfection.” – Unknown
-
